@@ -1,2 +1,2 @@
-# Jane-Taas-Portfolio-Website
+# Jane-Taas-Portfolio
 My personal branding
